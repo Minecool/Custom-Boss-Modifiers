@@ -1,6 +1,8 @@
 {
     "Name": "Custom Boss Modifiers",
     "Description": "A mod to change boss health and speed",
-    "RepoName": "Minecool",
-    "WorksOnVersion": "46"
+    "RepoOwner": "Minecool",
+    "RepoName": "Custom-Boss-Modifiers",
+    "WorksOnVersion": "46",
+    "Version": "1.0.0"
 }
